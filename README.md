@@ -1,7 +1,7 @@
 👋 Hello! I'm Shivesh Safal, a Backend Developer with a passion for crafting high-performing and scalable server-side solutions. I specialize in designing and implementing efficient APIs, databases, and backend architectures.
 
 💻 My technical expertise includes:
-- Programming Languages: Golang, Node.js, Python
+- Programming Languages: Golang, Javascript, Python
 - Frameworks: Gin, Express.js, Node.js, React.js
 - Databases: PostgreSQL, MongoDB, Redis
 - Cloud Platforms: AWS (Lambda, EC2, S3)
