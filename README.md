@@ -1,8 +1,8 @@
-👋 Hello! I'm Shivesh Safal, a Backend Developer with a passion for deliver a great user experience by my work.
+👋 Hello! I'm Shivesh Safal, a Backend Developer with a passion for delivering a great user experience by my work.
 
 💻 My technical expertise includes:
-- Programming Languages: Golang, Typescript, Javascript 
-- Frameworks: Gin, NestJS, Express.js, Node.js, React.js
+- Programming Languages: Golang, Typescript, Javascript, JAVA
+- Frameworks: Gin, NestJS, NodeJS, ReactJS
 - Databases: PostgreSQL, MongoDB, Redis
 - Cloud Platforms: GCP, AWS (Lambda, EC2, S3)
 - DevOps: Docker, Kubernetes
