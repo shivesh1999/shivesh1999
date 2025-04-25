@@ -4,7 +4,7 @@
 - Programming Languages: Golang, Typescript, Javascript, JAVA
 - Frameworks: Gin, NestJS, NodeJS, ReactJS
 - Databases: PostgreSQL, MongoDB, Redis
-- Cloud Platforms: GCP, AWS (Lambda, EC2, S3)
+- Cloud Platforms: GCP, AWS
 - DevOps: Docker, Kubernetes
 - Version Control: Git, GitHub
 
@@ -12,4 +12,4 @@
 
 🌱 Currently, I'm expanding my knowledge in microservice architectures and exploring new AI tools and best practices of software development.
 
-📫 Let's connect! Feel free to reach out if you have exciting backend development opportunities or if you'd like to collaborate on projects.
+📫 Let's connect! Feel free to reach out if you have any development opportunities or if you'd like to collaborate on projects.
