@@ -1,4 +1,4 @@
-👋 Hello! I'm Shivesh Safal, a Backend Developer with a passion for delivering a great user experience by my work.
+👋 Hello! I'm Shivesh Safal, a developer with a passion for delivering a great user experience by my work.
 
 💻 My technical expertise includes:
 - Programming Languages: Golang, Typescript, Javascript, JAVA
