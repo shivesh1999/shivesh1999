@@ -9,6 +9,6 @@
 
 🚀 I have experience in API developmnet and Integration, DApps development, Microservices and Devops.
 
-🌱 Currently, I'm expanding my knowledge in microservice architectures and how AI can help on improve software deleivery time.
+🌱 Currently, I'm expanding my knowledge in microservice architectures and how AI can help on improve software delivery time.
 
 📫 Let's connect! Feel free to reach out if you have any development opportunities or if you'd like to collaborate on projects.
