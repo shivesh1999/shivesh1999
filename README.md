@@ -7,7 +7,7 @@
 - Cloud Platforms: GCP, AWS
 - DevOps: Docker, Kubernetes
 
-🚀 I have experience in API developmnet and Integration, DApps development, Microservices and Devops.
+🚀 I have experience in API development and Integration, DApps development, Microservices and Devops.
 
 🌱 Currently, I'm expanding my knowledge in microservice architectures and how AI can help on improving software delivery time.
 
